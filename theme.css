@@ -823,6 +823,8 @@ p {
 	background-color: #FFF;
 	visibility: hidden;
 	z-index: 99998;
+	transform: all 0.25s ease-in-out;
+
 	/* box-shadow: 0 1px rgba(0, 0, 0, 0.04); */
 	-webkit-transition: all 0.25s ease-in-out;
 	-moz-transition: all 0.25s ease-in-out;
